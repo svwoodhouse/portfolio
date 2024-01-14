@@ -1,4 +1,4 @@
-import sydnee from '../assets/sydnee.jpg'
+import sydnee from '../assets/sydnee_transparent.png'
 
 const About = () => {
     return (
@@ -31,8 +31,8 @@ const About = () => {
             </div>
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
               <img
-                className="object-cover object-center rounded"
-                alt="hero"
+                className="object-cover object-center rounded border-2 border-black p-4"
+                alt="Sydnee"
                 src={sydnee}
               />
             </div>
