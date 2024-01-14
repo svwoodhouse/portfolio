@@ -1,4 +1,4 @@
-import coderImage from '../assets/girl_coding.avif'
+import sydnee from '../assets/sydnee.jpg'
 
 const About = () => {
     return (
@@ -33,7 +33,7 @@ const About = () => {
               <img
                 className="object-cover object-center rounded"
                 alt="hero"
-                src={coderImage}
+                src={sydnee}
               />
             </div>
           </div>
