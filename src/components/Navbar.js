@@ -1,5 +1,5 @@
 import React from "react";
-import resume from '../assets/SYDNEE_WOODHOUSE.pdf'
+import resume from '../assets/SYDNEE WOODHOUSE.pdf'
 
 export default function Navbar() {
   return (

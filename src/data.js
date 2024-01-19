@@ -16,11 +16,11 @@ export const projects = [
       subtitle: "React and Tailwind CSS",
       description: "Collection of tailwind styled reusable react components available in npm package as squid-react-components",
       image: reactTailwind,
-      link: "https://github.com/svwoodhouse/react-components",
+      link: "https://github.com/svwoodhouse/squid-react-components",
     }
   ];
 
-  export const skills = ['React', 'Javascript', 'Typescript', 'Go', 'Python', 'GraphQL']
+  export const skills = ['React', 'Javascript', 'Typescript', 'HTML/CSS', 'Vite', 'Webpack', 'Go', 'Python', 'GraphQL', 'Playwright', 'Jest', 'Docker', 'Jenkins', 'Concourse CI' ]
   export const resume = [
     {
         title: "Senior Software Engineer",
@@ -66,9 +66,9 @@ export const projects = [
   {
     title: "Support Engineer, Software Engineer Intern",
     logo: sapNS2Logo,
-    company: "SAP Concur",
+    company: "SAP National Security Services",
     type: 'Full-Time, Internship',
-    years: "March 2018 - April 2020",
+    years: "March 2017 - April 2020",
     experiences: [
       "Led the Solution Manager internal upgrade project ensuring the SAP NS2 internal ticketing system was able to connect to the new SAP Support Backbone infrastructure.",
       "Performed SAP HANA Technical Performance Optimization Services that analyzed the current state of the customer’s HANA system and provided recommendations to optimize performance.",
