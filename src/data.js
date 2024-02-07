@@ -29,8 +29,9 @@ export const projects = [
         type: 'Full-Time',
         years: "November 2023 - January 2024",
         experiences: [
-          "Working to enhance our current authorization code flow by implementing Proof Key for Code Exchange (PKCE). This will enhance our application login flow by making it more secure and will be used for other internal project initiatives within the company.",
-          "Working to improve accessibility of Tanzu Mission Control by adding more accessibility features to our internal components."  
+          "Worked on enhancing authorization code flow by implementing Proof Key for Code Exchange (PKCE). This enhances the application login flow by making it more secure and will be used for other internal project initiatives within the company.",
+          "Worked to improve accessibility of Tanzu Mission Control by adding more accessibility features to internal components.",
+          "Mentored junior developers on the team by helping them with the onboarding process, reviewing and providing feedback on MRs, providing guidance on coding standards and pair programming."  
         ]
     },
     {
