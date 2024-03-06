@@ -3,7 +3,23 @@ import concurLogo from './assets/sap_concur_logo.webp'
 import sapNS2Logo from './assets/SAPNS2-Headerlogo.png'
 import overwatch2Logo from './assets/overwatch2Logo.png'
 import reactTailwind from './assets/tailwindCSS.png'
+import emaily from './assets/Customer-Survey-Email.webp'
+import jobhunter from './assets/JobHunter.jpg'
 export const projects = [
+    {
+      title: "Emaily",
+      subtitle: "React, React-Redux, React-Thunk, Passport JS, Google OAuth, Materialize CSS, MongoDB, StripeAPI, Express, SendGrid and Render",
+      description: "Emaily is an application that allows Product Owners to send and collect customer feedback surveys. Users are able to login with Google OAuth and see their collection of surveys, send emails with surveys to a list of customers and users are billed via credits. Uses React, React-Redux, Redux-Thunk, and Materialize CSS for the frontend, MongoDB to store user data, Passport JS for Authentication flow, Stripe API for handling billing, and an Express server with custom middleware for the backend. Emails are sent with SendGrid and the application is deployed via Render.",
+      image: emaily,
+      link: "https://github.com/svwoodhouse/Emaily",
+    },
+    {
+      title: "Job Hunter",
+      subtitle: "React, React-Redux, Axios, MongoDB, Express, Squid-React-Components and Tailwind CSS",
+      description: "This application extracts search results from job listings based on filters and displays them in a dashboard that allows the user to change the job status, check if the user applied to the job already and the date of when the user applied. Uses Squid-React-Components and Tailwind CSS, React and React-Redux for the frontend. Uses MongoDB for data storage and an express server for handling http requests in the backend.",
+      image: jobhunter,
+      link: "https://github.com/svwoodhouse/JobHunter"
+    },
     {
       title: "Overwatch Statistics Comparison Application",
       subtitle: "Python, Pandas, Requests, BeautifulSoup",
@@ -20,7 +36,7 @@ export const projects = [
     }
   ];
 
-  export const skills = ['React', 'Javascript', 'Typescript', 'HTML/CSS', 'Vite', 'Webpack', 'Go', 'Python', 'GraphQL', 'Playwright', 'Jest', 'Docker', 'Jenkins', 'Concourse CI' ]
+  export const skills = ['React', 'Javascript', 'Typescript', 'HTML/CSS', 'Go', 'Python', 'GraphQL', 'Java', 'C++', 'C', 'MongoDB', 'Node', 'Express','Vite', 'Webpack', 'Playwright', 'Jest', 'Docker', 'Jenkins', 'Concourse CI' ]
   export const resume = [
     {
         title: "Senior Software Engineer",

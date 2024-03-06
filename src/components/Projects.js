@@ -15,7 +15,7 @@ const Projects = () => {
                     Here's some of the exciting projects I've been building! Please feel free to click the tiles and that will take you to the github repositories.
                   </p>
                 </div>
-                <div className="flex flex-wrap -m-4">
+                <div className="flex flex-wrap m-4">
                   {projects.map((project) => (
                     <a
                       href={project.link}
@@ -24,7 +24,7 @@ const Projects = () => {
                       <div className="flex relative">
                         <img
                           alt="gallery"
-                          className="absolute inset-0 w-full h-full object-cover object-center"
+                          className="absolute inset-0 w-full max-h-60 object-cover object-center"
                           src={project.image}
                         />
                         <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
