@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.40836b5b.css",
-    "main.js": "/static/js/main.ed8d18b3.js",
+    "main.css": "/static/css/main.9d0da856.css",
+    "main.js": "/static/js/main.c3dc7fc9.js",
     "static/media/sydnee_transparent.png": "/static/media/sydnee_transparent.a76a3128e503198513b8.png",
-    "static/media/SYDNEE WOODHOUSE.pdf": "/static/media/SYDNEE WOODHOUSE.4f70a5330e28cd517207.pdf",
+    "static/media/SYDNEE WOODHOUSE.pdf": "/static/media/SYDNEE WOODHOUSE.00a5eeeb371cdff03e76.pdf",
     "static/media/tailwindCSS.png": "/static/media/tailwindCSS.9ac85c3d5c92e3e97e36.png",
+    "static/media/Customer-Survey-Email.webp": "/static/media/Customer-Survey-Email.3a88e6cfda8245efbd59.webp",
     "static/media/overwatch2Logo.png": "/static/media/overwatch2Logo.d494b7dcf6a99b0df0bc.png",
     "static/media/vmware_logo.png": "/static/media/vmware_logo.e054575f6471e30aabc8.png",
+    "static/media/JobHunter.jpg": "/static/media/JobHunter.8b91765c74ab172ba2c5.jpg",
     "static/media/SAPNS2-Headerlogo.png": "/static/media/SAPNS2-Headerlogo.98edd87ea44a679159c8.png",
     "static/media/sap_concur_logo.webp": "/static/media/sap_concur_logo.a5bd833bfbcf6669d0e8.webp",
     "index.html": "/index.html",
-    "main.40836b5b.css.map": "/static/css/main.40836b5b.css.map",
-    "main.ed8d18b3.js.map": "/static/js/main.ed8d18b3.js.map"
+    "main.9d0da856.css.map": "/static/css/main.9d0da856.css.map",
+    "main.c3dc7fc9.js.map": "/static/js/main.c3dc7fc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.40836b5b.css",
-    "static/js/main.ed8d18b3.js"
+    "static/css/main.9d0da856.css",
+    "static/js/main.c3dc7fc9.js"
   ]
 }
